@@ -1,0 +1,14 @@
+input:focus{
+    background-color: blueviolet;
+    color:yellow
+}
+#paragrafo::first-line{
+    color: yellowgreen;
+}
+::marker{
+    background-color: lightcoral;
+}
+::selection{
+    background-color: crimson;
+    color: darkslategrey;
+}
