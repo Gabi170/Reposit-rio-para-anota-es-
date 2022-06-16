@@ -1,1 +1,3 @@
-# Reposit-rio-para-anota-es-
+#Este repositorio e feito exclusivamente para resumos 📚 
+
+##obg por ler;📖 
